@@ -1,1 +1,11 @@
 # CS-255
+##Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?##
+The client DriverPass wanted to incorporate a system that students could use online to study and prepare for their driving test. The system included a way for students to reserve appointments with instructors to drive and gather hours and notes about their driving. The system was to be built on the cloud as well.
+##What did you do particularly well?##
+I feel like I had a good grasp of web development because I work full stack for my job. This allowed me to understand general web development structures from past deveopment experiences.
+##If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?##
+If I could improve one aspect of these documents, I think I would improve the UML Class diagram. I feel like I could have added methods even though it wasn't absolutely necessary within the rubric. I think methods would have pulled the UML Class diagram together very well.
+##How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?##
+The users needs were pretty simple to interpret and implement into the system design. The "wants" from the owner were all easily translated into requirements and then translated into the coresponding UML diagrams. Understanding the user's needs when designing is extremely important because the system is for THEM. Being able to understand and translate user needs is instrumental in the process of designing and creating a system for a client.
+##How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?##
+I approach designing software in an incremental way. I start with gathering requirements and create my designs from there. If I were going to analyze a system, I would start with finding the use cases of the system. What does the system do? What are the processes involved within the system? Then I would break the system down into activity, class, and sequence diagrams to dive deeper into the system at hand.
